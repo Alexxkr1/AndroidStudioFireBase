@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab 6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error">Error! %1$s</string>
+    <string name="enter_username">enter username</string>
+    <string name="thk_logo">thk_logo</string>
+    <string name="enter_lastname">enter lastname</string>
+    <string name="first_name">first name</string>
+    <string name="ex_firstName">ex_firstName</string>
+    <string name="ex_lastName">ex_lastName</string>
+    <string name="user_name">username</string>
+    <string name="enter_password">enter password</string>
+    <string name="ex_password">ex_password</string>
+    <string name="log_out">logout</string>
+</resources>
